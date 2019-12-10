@@ -1,2 +1,0 @@
-# jokempo
-Created with CodeSandbox
